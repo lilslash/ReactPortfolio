@@ -1,0 +1,49 @@
+
+.jumbotron {
+    background-color: #053C5E;
+}
+.bar{
+    background-color: #1D3958;
+    
+}
+.textColor{
+    color: #8d99ae;
+   text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centerForm{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textColorP{
+    color: #8d99ae;
+   text-align: center;
+   font-size: 25px;
+}
+.textColorPort {
+    color: #DB222A;
+    text-align: center;
+    font-size: 25px;
+}
+.errorColor{
+    color: yellow;
+   text-align: center;
+   font-size: 25px;
+}
+.listColor {
+    color: #8d99ae;
+   font-size: 25px;
+}
+.footerBar{
+    margin-top: 1rem;
+    background-color: #1D3958;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
